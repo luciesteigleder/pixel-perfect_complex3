@@ -71,6 +71,7 @@ body .area .area4 {
 body .area .area4 ul li {
   list-style-type: "🗸";
   padding-top: 25px;
+  padding-left: 20px;
 }
 body .area .area4 ul li img {
   height: 20px;
@@ -87,6 +88,7 @@ body .area .area4 button {
   color: #fff;
   font-family: "Lato";
   font-size: 16px;
+  margin-bottom: 50px;
 }
 
 /*# sourceMappingURL=index.css.map */
